@@ -1,0 +1,50 @@
+body {
+	margin-top: 5%
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	font-size: 0;
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.topRow {
+	width: 50%;
+	height: 200px;
+}
+
+.bottomRow {
+	width: 33.33%;
+	height: 300px;
+}
+
+
+/**********
+Colors
+**********/
+
+.green {
+	background: green;
+}
+
+.blue {
+	background: blue;
+}
+
+.grey {
+	background: grey;
+}
+
+.black {
+	background: black;
+}
+
+.orange {
+	background: orange;
+}
